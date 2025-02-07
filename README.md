@@ -1,12 +1,12 @@
-# Hi there, I'm Akshata Sthana! 👋
+# Hi there, I'm Akshata Asthana! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here you'll find various projects and contributions that showcase my skills and interests.
 
 ## About Me
 
-- 🌱 I’m currently learning and improving my skills in Python, JavaScript, and web development.
+- 🌱 I’m currently learning and improving my skills in Python, Machine Learning , and web development, data visualisation.
 - 💼 I’m looking to collaborate on open-source projects and innovative tech solutions.
-- 📫 You can reach me at [your-email@example.com](mailto:your-email@example.com).
+- 📫 You can reach me at [akshatasthana1811@gmail.com](mailto:akshatasthana1811@gmail.com).
 
 ## My GitHub Stats
 
