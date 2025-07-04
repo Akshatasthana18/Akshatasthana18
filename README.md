@@ -1,4 +1,4 @@
-# Hi there, I'm Akshata Asthana! 👋
+# Hi there, I'm Akshat Asthana! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here you'll find various projects and contributions that showcase my skills and interests.
 
