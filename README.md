@@ -11,15 +11,13 @@ It helps stakeholders analyze customer distribution and identify key business tr
 - Interactive filters for **date joined, education, contact type, and age**
 
 ## 🗂️ Files
-- `American_Bank.pbix` → Power BI dashboard file
+
 - `dataset.csv` → Sample dataset (if available)
 - `Screenshot.png` → Dashboard preview
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Screenshot.png)
+![Dashboard Screenshot]([Screenshot.png](https://github.com/Akshatasthana18/Akshatasthana18/blob/main/Screenshot%202025-08-22%20103213.png))
 
-## 🚀 Live Dashboard (Optional)
-If published on Power BI service: [View Dashboard](your-powerbi-link)
 
 ## ⚙️ Tools Used
 - Power BI (Data Visualization & Dashboarding)
